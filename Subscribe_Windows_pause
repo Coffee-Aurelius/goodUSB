@@ -1,0 +1,14 @@
+DELAY 500
+GUI r
+DELAY 500
+STRING https://www.youtube.com/@TalkingSasquach
+ENTER
+DELAY 20000
+TAB
+TAB
+TAB
+ENTER
+TAB
+TAB
+ENTER
+DELAY 5000
